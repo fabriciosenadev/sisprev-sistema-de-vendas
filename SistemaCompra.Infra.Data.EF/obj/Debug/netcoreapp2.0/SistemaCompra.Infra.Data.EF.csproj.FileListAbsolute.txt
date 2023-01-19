@@ -1,0 +1,5 @@
+C:\Projetos\SistemaCompras\SistemaCompra.Infra.Data.EF\bin\Debug\netcoreapp2.0\SistemaCompra.Domain.Core.dll
+C:\Projetos\SistemaCompras\SistemaCompra.Infra.Data.EF\bin\Debug\netcoreapp2.0\SistemaCompra.Domain.dll
+C:\Projetos\SistemaCompras\SistemaCompra.Infra.Data.EF\obj\Debug\netcoreapp2.0\SistemaCompra.Infra.Data.EF.csprojAssemblyReference.cache
+C:\Projetos\SistemaCompras\SistemaCompra.Infra.Data.EF\obj\Debug\netcoreapp2.0\SistemaCompra.Infra.Data.EF.AssemblyInfoInputs.cache
+C:\Projetos\SistemaCompras\SistemaCompra.Infra.Data.EF\obj\Debug\netcoreapp2.0\SistemaCompra.Infra.Data.EF.AssemblyInfo.cs

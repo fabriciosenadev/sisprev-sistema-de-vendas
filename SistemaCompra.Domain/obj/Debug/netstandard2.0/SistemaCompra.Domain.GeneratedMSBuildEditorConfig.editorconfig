@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SistemaCompra.Domain
+build_property.ProjectDir = C:\_projetos\_aspnet-projects\testes\SistemaCompras-v3\SistemaCompra.Domain\
